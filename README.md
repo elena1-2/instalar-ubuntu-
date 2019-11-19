@@ -1,0 +1,2 @@
+# instalar-ubuntu-
+sistema operativo
